@@ -1,0 +1,15 @@
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\bin\Debug\net6.0\8 - LacoDeRepeticao.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\bin\Debug\net6.0\8 - LacoDeRepeticao.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\bin\Debug\net6.0\8 - LacoDeRepeticao.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\bin\Debug\net6.0\8 - LacoDeRepeticao.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\bin\Debug\net6.0\8 - LacoDeRepeticao.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\refint\8 - LacoDeRepeticao.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\8 - LacoDeRepeticao.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\8 - LacoDeRepeticao\obj\Debug\net6.0\ref\8 - LacoDeRepeticao.dll

@@ -1,0 +1,15 @@
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\bin\Debug\net6.0\4 - CaracteresETexto.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\bin\Debug\net6.0\4 - CaracteresETexto.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\bin\Debug\net6.0\4 - CaracteresETexto.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\bin\Debug\net6.0\4 - CaracteresETexto.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\bin\Debug\net6.0\4 - CaracteresETexto.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\refint\4 - CaracteresETexto.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\4 - CaracteresETexto.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\4 - CaracteresETexto\obj\Debug\net6.0\ref\4 - CaracteresETexto.dll

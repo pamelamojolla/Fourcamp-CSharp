@@ -1,0 +1,15 @@
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\bin\Debug\net6.0\VariaveisTipoInteiro.exe
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\bin\Debug\net6.0\VariaveisTipoInteiro.deps.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\bin\Debug\net6.0\VariaveisTipoInteiro.runtimeconfig.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\bin\Debug\net6.0\VariaveisTipoInteiro.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\bin\Debug\net6.0\VariaveisTipoInteiro.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\refint\VariaveisTipoInteiro.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\VariaveisTipoInteiro.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\VariaveisTipoInteiro\obj\Debug\net6.0\ref\VariaveisTipoInteiro.dll

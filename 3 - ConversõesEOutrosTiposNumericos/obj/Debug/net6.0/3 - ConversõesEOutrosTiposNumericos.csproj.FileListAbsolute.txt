@@ -1,0 +1,30 @@
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.exe
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.deps.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\refint\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\ref\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\bin\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\refint\3 - ConversõesEOutrosTiposNumericos.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\3 - ConversõesEOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\3 - ConversõesEOutrosTiposNumericos\obj\Debug\net6.0\ref\3 - ConversõesEOutrosTiposNumericos.dll

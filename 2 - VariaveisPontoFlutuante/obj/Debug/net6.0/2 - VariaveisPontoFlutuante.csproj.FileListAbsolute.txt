@@ -1,0 +1,30 @@
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.exe
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.deps.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\refint\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.pdb
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\VariaveisTipoInteiro\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\ref\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\bin\Debug\net6.0\2 - VariaveisPontoFlutuante.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\refint\2 - VariaveisPontoFlutuante.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\2 - VariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\2 - VariaveisPontoFlutuante\obj\Debug\net6.0\ref\2 - VariaveisPontoFlutuante.dll

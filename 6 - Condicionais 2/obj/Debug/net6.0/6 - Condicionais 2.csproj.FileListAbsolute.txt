@@ -1,0 +1,15 @@
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\bin\Debug\net6.0\6 - Condicionais 2.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\bin\Debug\net6.0\6 - Condicionais 2.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\bin\Debug\net6.0\6 - Condicionais 2.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\bin\Debug\net6.0\6 - Condicionais 2.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\bin\Debug\net6.0\6 - Condicionais 2.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\refint\6 - Condicionais 2.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\6 - Condicionais 2.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\6 - Condicionais 2\obj\Debug\net6.0\ref\6 - Condicionais 2.dll

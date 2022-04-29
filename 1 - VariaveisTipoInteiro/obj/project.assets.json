@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\1 - VariaveisTipoInteiro\\1 - VariaveisTipoInteiro.csproj",
+      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\1 - VariaveisTipoInteiro\\1 - VariaveisTipoInteiro.csproj",
       "projectName": "1 - VariaveisTipoInteiro",
-      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\1 - VariaveisTipoInteiro\\1 - VariaveisTipoInteiro.csproj",
+      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\1 - VariaveisTipoInteiro\\1 - VariaveisTipoInteiro.csproj",
       "packagesPath": "C:\\Users\\pmojolla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\1 - VariaveisTipoInteiro\\obj\\",
+      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\1 - VariaveisTipoInteiro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmojolla\\AppData\\Roaming\\NuGet\\NuGet.Config",

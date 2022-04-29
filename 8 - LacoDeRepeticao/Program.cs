@@ -29,21 +29,21 @@ while(contadorMes < 12)
 /* Elabore um programa em C# para testar se uma senha digitada pelo
  * usuário é igual a senha1214. Se a senha estiver correta mostre na tela: 
  * "Acesso permitido", do contrário emita a mensagem: “Senha Incorreta. Digite novamente”.
- * Observação: O usuário tem 3 chances para acertar a senha. Caso não consiga acertar, mostrar na tela:
+ * Observação: O usuário tem 3 chance para acertar a senha. Caso não consiga acertar, mostrar na tela:
    “Senha Bloqueada! Procure o setor responsável”
 */
 
 Console.WriteLine("Digite sua Senha: ");
 string senha = Console.ReadLine();
 
-int chances = 2;
+int chance = 2;
 
-while(senha != "senha1214" && chances > 0)
+while(senha != "senha1214" && chance > 0)
 {
-    Console.WriteLine($"Senha incorreta! Você tem mais {chances} chances.");
+    Console.WriteLine($"Senha incorreta! Você tem mais {chance} chance.");
     Console.WriteLine("Digite sua senha novamente: ");
     senha = Console.ReadLine();
-    chances--;
+    chance--;
 }
 
 if(senha == "senha1214")

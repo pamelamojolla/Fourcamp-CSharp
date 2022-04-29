@@ -1,0 +1,15 @@
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\bin\Debug\net6.0\P10 - ColecaoDeDados.exe
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\bin\Debug\net6.0\P10 - ColecaoDeDados.deps.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\bin\Debug\net6.0\P10 - ColecaoDeDados.runtimeconfig.json
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\bin\Debug\net6.0\P10 - ColecaoDeDados.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\bin\Debug\net6.0\P10 - ColecaoDeDados.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.csproj.AssemblyReference.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.AssemblyInfoInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.AssemblyInfo.cs
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.csproj.CoreCompileInputs.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\refint\P10 - ColecaoDeDados.dll
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.pdb
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\P10 - ColecaoDeDados.genruntimeconfig.cache
+C:\Users\pmojolla\source\repos\Projeto Fourcamp_C#\Fourcamp-CSharp\P10 - ColecaoDeDados\obj\Debug\net6.0\ref\P10 - ColecaoDeDados.dll

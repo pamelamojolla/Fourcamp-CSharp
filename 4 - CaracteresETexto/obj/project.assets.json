@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\4 - CaracteresETexto\\4 - CaracteresETexto.csproj",
+      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\4 - CaracteresETexto\\4 - CaracteresETexto.csproj",
       "projectName": "4 - CaracteresETexto",
-      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\4 - CaracteresETexto\\4 - CaracteresETexto.csproj",
+      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\4 - CaracteresETexto\\4 - CaracteresETexto.csproj",
       "packagesPath": "C:\\Users\\pmojolla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\4 - CaracteresETexto\\obj\\",
+      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\4 - CaracteresETexto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmojolla\\AppData\\Roaming\\NuGet\\NuGet.Config",

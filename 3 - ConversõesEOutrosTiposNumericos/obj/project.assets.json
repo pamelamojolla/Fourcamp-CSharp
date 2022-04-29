@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\3 - ConversõesEOutrosTiposNumericos\\3 - ConversõesEOutrosTiposNumericos.csproj",
+      "projectUniqueName": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\3 - ConversõesEOutrosTiposNumericos\\3 - ConversõesEOutrosTiposNumericos.csproj",
       "projectName": "3 - ConversõesEOutrosTiposNumericos",
-      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\3 - ConversõesEOutrosTiposNumericos\\3 - ConversõesEOutrosTiposNumericos.csproj",
+      "projectPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\3 - ConversõesEOutrosTiposNumericos\\3 - ConversõesEOutrosTiposNumericos.csproj",
       "packagesPath": "C:\\Users\\pmojolla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\3 - ConversõesEOutrosTiposNumericos\\obj\\",
+      "outputPath": "C:\\Users\\pmojolla\\source\\repos\\Projeto Fourcamp_C#\\Fourcamp-CSharp\\3 - ConversõesEOutrosTiposNumericos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pmojolla\\AppData\\Roaming\\NuGet\\NuGet.Config",
